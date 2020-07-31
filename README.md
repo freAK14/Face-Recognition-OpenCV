@@ -1,4 +1,4 @@
-# Face-Rocognition-OpenCV
+# Face-Recognition-OpenCV
 Basic Face Recognition program using "haarcascade_frontalface_default.xml" classifier and OpenCV.
 
 ## Requirements:
